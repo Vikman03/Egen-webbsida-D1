@@ -42,14 +42,23 @@ header a
     color: white;
     text-align: center;
 }
+
+/*RUBRIK*/
+
 .header1
 {
-    color: white;
-    position: static;
+    color: white; 
     margin-top: 1rem;
     margin-left: 1rem;
 
 }
+.header1 span
+{
+    border:solid white 0.1rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
 
 
 /*footer*/
