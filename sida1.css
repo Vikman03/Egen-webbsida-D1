@@ -1,0 +1,87 @@
+html {
+    font-size: 16px
+}
+
+.logo
+{
+    
+}
+body {
+
+    margin: 0;
+    background-image: linear-gradient(109.6deg, rgba(5, 84, 94, 1) 16%, #bbb 91.1%);
+    background-attachment: fixed;
+}
+
+
+
+.btn-grad {
+    background-image: linear-gradient(to right, #134E5E 0%, #71B280 51%, #134E5E 100%)
+}
+
+.btn-grad {
+    margin: 1rem;
+    padding: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.7s;
+    background-size: 150% auto;
+    color: darkgrey;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 1rem;
+    Margin-top: 13rem;
+}
+
+.btn-grad:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+header a
+{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.header1
+{
+    color: white;
+    position: static;
+    margin-top: 1rem;
+    margin-left: 1rem;
+
+}
+
+
+/*footer*/
+
+.footer 
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 5rem;
+  width: 100%;
+  background-color: darkslategrey;
+  color: white;
+     }
+
+.notcopy
+{
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+    float:right;
+    color:black; 
+}
+
+.info
+{
+    text-align:inherit;
+    color:black;
+    margin-left: 0.9rem;
+    font-size: 0.8rem;
+    float:left;
+    
+}
+
