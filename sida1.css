@@ -2,10 +2,7 @@ html {
     font-size: 16px
 }
 
-.logo
-{
-    
-}
+
 body {
 
     margin: 0;
@@ -14,7 +11,7 @@ body {
 }
 
 
-
+/*KNAPP TILL SIDA 2 */
 .btn-grad {
     background-image: linear-gradient(to right, #134E5E 0%, #71B280 51%, #134E5E 100%)
 }
@@ -38,6 +35,7 @@ body {
     color: #fff;
     text-decoration: none;
 }
+
 header a
 {
     text-decoration: none;
