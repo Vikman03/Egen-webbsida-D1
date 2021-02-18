@@ -29,12 +29,14 @@ header img {
 
 .Logotext {
 
-margin-left: 0.3rem;
+margin-left: 1rem;
+    margin-top:1rem;
     font-family: fantasy;
     font-size: 1.24rem;
     border: solid white 0.1rem;
-    border-radius: 0.7rem;
+    border-radius: 0.5rem;
     color: white;
+    padding: 0.3rem;
 }
 
 

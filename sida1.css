@@ -27,6 +27,7 @@ body {
     box-shadow: 0 0 20px #eee;
     border-radius: 1rem;
     Margin-top: 13rem;
+    font-family: fantasy;
 }
 
 .btn-grad:hover {
@@ -50,13 +51,15 @@ header a
     color: white; 
     margin-top: 1rem;
     margin-left: 1rem;
+    font-size: 1.24rem;
+    font-family: fantasy;
 
 }
 .header1 span
 {
     border:solid white 0.1rem;
     border-radius: 0.5rem;
-    padding: 0.5rem; 
+    padding: 0.3rem; 
 }
 
 
