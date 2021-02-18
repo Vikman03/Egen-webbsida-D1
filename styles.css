@@ -29,9 +29,12 @@ header img {
 
 .Logotext {
 
-
+margin-left: 0.3rem;
     font-family: fantasy;
     font-size: 1.24rem;
+    border: solid white 0.1rem;
+    border-radius: 0.7rem;
+    color: white;
 }
 
 
@@ -48,7 +51,7 @@ header img {
 .topnav {
     border: ;
     overflow: hidden;
-    background-color: darkslategray;
+   /*background-color: darkslategray;*/
      }
 
     .topnav a {
@@ -78,7 +81,7 @@ position: sticky;
     position: fixed;
     z-index: 1;
     left: 0;
-    background-color: darkslategrey;
+   /* background-color: darkslategrey;*/
     overflow-x: hidden;
     font-size: 1.24rem;
 
@@ -110,9 +113,42 @@ position: sticky;
     margin-left: 5rem;
     padding: 1rem 11rem;
     
+    
     }
 .mainText
 {
     border: 0.1rem solid grey;
     border-radius: 1rem;
+}
+
+
+/*FOOTER*/
+
+.footer 
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 5rem;
+  width: 100%;
+  background-color: darkslategrey;
+  color: white;
+     }
+
+.notcopy
+{
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+    float:right;
+    color:black; 
+}
+
+.info
+{
+    text-align:inherit;
+    color:black;
+    margin-left: 0.9rem;
+    font-size: 0.8rem;
+    float:left;
+    
 }
