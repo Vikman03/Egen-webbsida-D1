@@ -1,0 +1,63 @@
+html {
+    font-size: 16px
+}
+
+
+body {
+
+    margin: 0;
+background-image: linear-gradient( 109.6deg,  rgba(5,84,94,1) 16%, #bbb 91.1% );
+background-attachment: fixed;
+}
+
+
+
+
+
+/* LOGGA */
+header {
+    
+}
+
+header img {
+    position: absolute;
+    left: auto;
+    right: auto;
+    border: 0.5rem solid darkblue;
+
+}
+
+.Logotext {
+
+margin-left: 1rem;
+    margin-top:1rem;
+    font-family: fantasy;
+    font-size: 1.24rem;
+    border: solid white 0.1rem;
+    border-radius: 0.5rem;
+    color: white;
+    padding: 0.3rem;
+}
+
+
+
+
+
+/*INNEHÅLL*/
+.main {
+    position: static;
+    text-align: center;
+    margin-left: 5rem;
+    padding: 1rem 11rem;
+    
+    
+    }
+.mainText
+{
+    border: 0.1rem solid grey;
+    border-radius: 1rem;
+}
+
+
+
+

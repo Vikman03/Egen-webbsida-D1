@@ -1,0 +1,29 @@
+.footer 
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 5rem;
+  width: 100%;
+  background-color: darkslategrey;
+  color: white;
+     }
+
+.notcopy
+{
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+    float:right;
+    color:black; 
+}
+
+.info
+{
+    text-align:inherit;
+    color:black;
+    margin-left: 0.9rem;
+    font-size: 0.8rem;
+    float:left;
+    
+}
+

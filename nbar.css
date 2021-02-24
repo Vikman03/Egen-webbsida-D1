@@ -1,0 +1,83 @@
+.topnav h3 {
+    text-align: center;
+    float: left;
+
+}
+
+.topnav {
+    border: ;
+    overflow: hidden;
+   /*background-color: darkslategray;*/
+     }
+
+    .topnav a {
+position: sticky;
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 1.3rem 5rem;
+    text-decoration: none;
+    font-size: 1.24rem;
+    width: 
+        
+}
+
+.topnav a:hover {
+    background-color: black;
+    color: darkslategrey;
+}
+
+
+
+.sidenav {
+    border: ;
+    top: 0.5;
+    height: 100%;
+    width: 6rem;
+    position: fixed;
+    z-index: 1;
+
+   /* background-color: darkslategrey;*/
+    overflow-x: hidden;
+    font-size: 1.24rem;
+
+
+
+}
+
+.sidenav a {
+
+    padding: 1.7rem 0.3rem ;
+    color: black;
+    text-decoration: none;
+    font-size: 1.24rem;
+    display: block;
+
+}
+
+
+.sidenav a:hover 
+{
+    background-color: black;
+   color:darkslategrey;
+}
+
+
+.dropdown
+{
+    padding: ;
+    overflow:hidden;
+    float:left;
+}
+
+.dropdown .dropbtn
+{
+    font-size: 1.24rem;
+    border: none;
+    color: black;
+    padding: 1rem 2rem;
+   background: none;
+    font-family: inherit;
+    margin:0;
+    
+}
